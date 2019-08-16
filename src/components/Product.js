@@ -1,5 +1,6 @@
 // Code Product Component Here
-import React, {Component} form "react";
+import React, {Component} from "react";
+import propTypes from 
 
 export class Product extends Component {
 
@@ -11,3 +12,5 @@ export class Product extends Component {
   }
 
 }
+
+Product.
